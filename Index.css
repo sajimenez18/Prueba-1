@@ -1,0 +1,10 @@
+.padre {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.hijo1 {
+    width: 1440px;
+    height: 3035px;
+    border: 1px solid black;
+}
