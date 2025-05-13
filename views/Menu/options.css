@@ -1,0 +1,57 @@
+.Opciones{
+    width: 1440px;
+    height: 42px;
+    background-color: #F5F5F5;
+    color: #666666;
+    
+}
+.Options{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 700px;
+    padding-top: 1rem;
+}
+.more{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.option1 {
+    width: 214px;
+    height: 14px;
+}
+.delivery{
+    display: flex;
+    align-items: center;
+    gap: 5px;
+
+    width: 136px;
+    height: 18px;
+}
+.ubicacion{
+    width: 18px;
+    height: 18px;
+}
+.order{
+    width: 128px;
+    height: 18px;
+    display: flex;
+    align-items: center;
+    gap: 5px;
+}
+.troca {
+    width: 18px;
+    height: 18px;
+}
+.offers{
+    width: 90px;
+    height: 18px;
+    gap: 5px;
+    display: flex;
+    align-items: center;
+}
+.porcentaje{
+    width: 18px;
+    height: 18px;
+}
