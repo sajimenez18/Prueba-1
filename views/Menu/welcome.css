@@ -1,0 +1,98 @@
+.Menuu{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 2.5rem;
+    margin-left: 1rem;
+    margin-top: 1.3rem;
+}
+.ventana1{
+    width: 113px;
+    height: 36px;
+    background-color: #008ECC ;
+    color: white;
+    border-radius: 18px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.ventana2{
+    width: 113px;
+    height: 36px;
+    background-color: #F3F9FB;
+    color: #222222;
+    border-radius: 18px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.ventana3{
+    width: 153px;
+    height: 36px;
+    background-color: #F3F9FB;
+    color: #222222;
+    border-radius: 18px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.ventana4{
+    width: 101px;
+    height: 36px;
+    background-color: #F3F9FB;
+    color: #222222;
+    border-radius: 18px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.ventana5{
+    width: 121px;
+    height: 36px;
+    background-color: #F3F9FB;
+    color: #222222;
+    border-radius: 18px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.ventana6{
+    width: 96px;
+    height: 36px;
+    background-color: #F3F9FB;
+    color: #222222;
+    border-radius: 18px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.ventana7{
+    width: 176px;
+    height: 36px;
+    background-color: #F3F9FB;
+    color: #222222;
+    border-radius: 18px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.ventana8{
+    width: 195px;
+    height: 36px;
+    background-color: #F3F9FB;
+    color: #222222;
+    border-radius: 18px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.abajo{
+    width: 18px;
+    height: 18px;
+    margin-left: 5px;
+}
+.bajo{
+    width: 18px;
+    height: 18px;
+    margin-left: 5px;
+}
