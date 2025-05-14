@@ -1,0 +1,50 @@
+.Acceso{
+    display: flex;
+    align-items: center;
+    margin-left: 8rem;
+    margin-top: 2rem;
+    gap: 8px;
+}
+.etc{
+    width: 48px;
+    height: 48px;
+}
+.logo{
+    width: 138px;
+    height: 28px;
+}
+.buscador{
+    width: 507px;
+    height: 48px;
+    background-color: #F3F9FB;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-left: 33rem;
+    gap: 1rem;
+    color: #666666;
+}
+.text{
+    margin-right: 10rem;
+}
+.item{
+    display: flex;
+    margin-left: 4rem;
+}
+.registro{
+    width: 241px;
+    height: 24px;
+    gap: 10px;
+    display: flex;
+    align-items: center;
+    margin-left: 5px;
+    color: #666666;
+}
+.user{
+    width: 24px;
+    height: 24px;
+}
+.buy{
+    width: 24px;
+    height: 24px;
+}

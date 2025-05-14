@@ -11,15 +11,21 @@
     justify-content: center;
     gap: 700px;
     padding-top: 1rem;
+    margin-left: 3rem;
+}
+.option1 {
+    width: 214px;
+    height: 16px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-left: 3rem;
 }
 .more{
     display: flex;
     align-items: center;
     justify-content: center;
-}
-.option1 {
-    width: 214px;
-    height: 14px;
+    margin-right: 8rem ;
 }
 .delivery{
     display: flex;
@@ -39,6 +45,7 @@
     display: flex;
     align-items: center;
     gap: 5px;
+
 }
 .troca {
     width: 18px;
@@ -54,4 +61,9 @@
 .porcentaje{
     width: 18px;
     height: 18px;
+}
+.line{
+    width: 1px;
+    height: 18px;
+    color: #D9D9D9;
 }
