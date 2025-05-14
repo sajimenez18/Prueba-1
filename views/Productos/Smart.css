@@ -1,0 +1,63 @@
+.Smart{
+    width: 1440px;
+    height: 45rem;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border: 1px solid black;
+}
+.fondo{
+    width: 1201px;
+    height: 316px;
+    background-color: #212844;
+    border-radius: 10px;
+    position: relative;
+    display: flex;
+    flex-direction: row;
+}
+.letras{
+    display: flex;
+    margin-left: 10rem;
+}
+.linea{
+    display: flex;
+    margin-top: 6rem;
+    margin-left: 10rem;
+}
+.fond{
+    margin-left: 12rem;
+    object-fit: cover;
+    position: relative;
+}
+.textoo{
+    width: 574px;
+    height: 156px;
+    margin-top: 5rem;
+}
+.reloj{
+    position: absolute;
+    margin-left: 80rem;
+    margin-top: 2rem;
+}
+.izquierda{
+    width: 86px;
+    height: 86px;
+    background-color: #FFFFFF;
+    border-radius: 360px;
+    position: absolute;
+    left: -45px;
+    top: 120px;
+}
+.derecha{
+    width: 86px;
+    height: 86px;
+    background-color: #FFFFFF;
+    border-radius: 360px;
+    position: absolute;
+    left: 115rem;
+    top: 120px;
+}
+.f{
+    margin-top: 3rem;
+    margin-left: 3rem;
+}
