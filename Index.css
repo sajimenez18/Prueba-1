@@ -23,6 +23,38 @@
     height: 224rem;
     border: 1px solid black;
 }
+.best{
+    width: 1440px;
+    height: 5rem;
+    display: flex;
+    align-items: center;
+    justify-content:center;
+    flex-direction: row;
+}
+.uno {
+    display: flex;
+    flex-direction: column;
+    margin-right: 72rem;
+}
+.tphone{
+    width: 378px;
+    height: px;
+}
+.lin {
+    width: 378px;
+    height: 1px;
+}
+.dos{
+    display: flex;
+    flex-direction: row;
+}
+.al{
+    font-size: 16px;
+    color: #222222;
+}
+.all{
+    margin-left: 1rem;
+}
 .hijo5{
     width: 1440px;
     height: 592px;
