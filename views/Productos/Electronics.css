@@ -1,6 +1,6 @@
 .Electronics{
     width: 1440px;
-    height: 44.5rem;
+    height: 35rem;
     border: 1px solid black;
     display: flex;
     flex-direction: row;
@@ -111,4 +111,8 @@
     position: absolute;
     margin-top: 8rem;
     margin-left: 3rem;
+}
+.lins{
+    width: 250px;
+    height:30px;
 }

@@ -1,5 +1,81 @@
 .Essentials{
     width: 1440px;
-    height: 45rem;
-    background-color: aqua;
+    height: 40rem;
+    border: 1px solid black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: row;
+    gap: 15px;
+}
+.fruts{
+    width: 187px;
+    height: 270px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    gap: 8px;
+}
+.c1{
+    width: 187px;
+    height: 187px;
+    background-color: #F5F5F5;
+    border-radius: 3rem;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border: 1px solid #008ECC ;
+}
+.c2 {
+    width: 112px;
+    height: 20px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: #666666;
+    font-size: 8px;
+}
+.c3 {
+    width: 134px;
+    height: 20px;
+    color: #222222;
+    font-size: 15px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.c4{
+    width: 187px;
+    height: 187px;
+    background-color: #F5F5F5;
+    border-radius: 3rem;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border: 1px solid black;
+}
+.canasta{
+    width: 183px;
+    height: 122px;
+}
+.box{
+    width: 145px;
+    height: 164px;
+}
+.fruta{
+    width: 176px;
+    height: 153px;
+}
+.fresa{
+    width: 166px;
+    height: 102px;
+}
+.mango{
+    width: 168px;
+    height: 136px;
+}
+.cereza{
+    width: 132px;
+    height: 148px;
 }

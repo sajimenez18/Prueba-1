@@ -1,11 +1,10 @@
 .Top{
     width: 1440px;
-    height: 40rem;
+    height: 35rem;
     display: flex;
     align-items: center;
     justify-content: center;
     border: 1px solid black;
-    padding-bottom: 10rem;
 }
 .div1{
     width: 132px;
