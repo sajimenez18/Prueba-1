@@ -1,7 +1,6 @@
 .Electronics{
     width: 1440px;
     height: 35rem;
-    border: 1px solid black;
     display: flex;
     flex-direction: row;
     gap: 3rem;
@@ -56,7 +55,6 @@
 .imgt {
     width: 389px;
     height: 207px;
-    border: 1px solid black;
 }
 .fondo2{
     width: 389px;

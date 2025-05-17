@@ -7,22 +7,19 @@
 .hijo1 {
     width: 1440px;
     height: 3035px;
-    border: 1px solid black;
 }
 .hijo2{
     width: 1440px;
     height: 90px;
-    border: 1px solid black;
 }
 .hijo3{
     width: 1440px;
     height: 69px;
-    border: 1px solid black;
+
 }
 .hijo4{
     width: 1440px;
     height: 224rem;
-    border: 1px solid black;
 }
 .best{
     width: 1440px;
@@ -59,7 +56,7 @@
 .hijo5{
     width: 1440px;
     height: 592px;
-    border: 1px solid black;
+
     background-color: #008ECC;
     color: white;
 }

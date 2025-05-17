@@ -1,5 +1,4 @@
 .mm{
-    border: 1px solid black;
     width: 45rem;
     height: 40rem;
     color: white;
@@ -25,7 +24,6 @@
 .wts{
     width: 140px;
     height: 40px;
-    border: 1px solid black;
     display: flex;
     flex-direction: row;
 
@@ -33,7 +31,6 @@
 .ws{
     width: 130px;
     height: 40px;
-    border: 1px solid black;
     display: flex;
     flex-direction: column;
     justify-content: center;

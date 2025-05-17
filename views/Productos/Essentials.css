@@ -1,7 +1,6 @@
 .Essentials{
     width: 1440px;
     height: 40rem;
-    border: 1px solid black;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -39,7 +38,6 @@
 .c3 {
     width: 134px;
     height: 20px;
-    color: #222222;
     font-size: 15px;
     display: flex;
     align-items: center;
@@ -53,7 +51,6 @@
     display: flex;
     align-items: center;
     justify-content: center;
-    border: 1px solid black;
 }
 .canasta{
     width: 183px;
