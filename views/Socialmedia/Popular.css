@@ -1,0 +1,32 @@
+.mp{
+    border: 1px solid black;
+    width: 250px;
+    height: 352px;
+    display: flex;
+    flex-direction: column;
+}
+.line3{
+    width: 165px;
+    height: 1px;
+}
+.liss{
+    display: flex;
+    flex-direction: column;
+    margin-top: 1.5rem;
+    margin-left: 2rem;
+    gap: 1rem;
+}
+.listado{
+    display: flex;
+    flex-direction: column;
+    margin-left: 3rem;
+    margin-top: 3rem;
+    font-size: 13px;
+}
+.pc{
+    font-size: 15px;
+}
+.line4{
+    width: 125px;
+    height: 1px;
+}

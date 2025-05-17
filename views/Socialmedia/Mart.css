@@ -1,0 +1,50 @@
+.mm{
+    border: 1px solid black;
+    width: 45rem;
+    height: 40rem;
+    color: white;
+    display: flex;
+    flex-direction: column;
+    padding-left: 3rem;
+}
+.m { 
+    width: 217px;
+    height: 44px;
+    margin-top: 4rem;
+}
+.contactu{
+    font-size: 20px;
+    margin-top: 1rem;
+    margin-bottom: 0.5rem;
+}
+.w{
+    width: 24px;
+    height: 24px;
+    margin-top: 0.5rem;
+}
+.wts{
+    width: 140px;
+    height: 40px;
+    border: 1px solid black;
+    display: flex;
+    flex-direction: row;
+
+}
+.ws{
+    width: 130px;
+    height: 40px;
+    border: 1px solid black;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    padding-left: 3px;
+}
+.ambos{
+    display: flex;
+    flex-direction: column;
+    gap: 2px;
+}
+.app{
+    width: 378px;
+    height: 56px;
+}

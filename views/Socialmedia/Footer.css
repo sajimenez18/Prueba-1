@@ -1,0 +1,17 @@
+.foter{
+    width: 144rem;
+    height: 45rem;
+    border: 1px solid black;
+    position: relative;
+    display: flex;
+    padding-left: 10rem;
+    padding-top: 2.5rem;
+    gap: 2rem;
+}
+.bub{
+    width: 321px;
+    height: 350px;
+    position: absolute;
+    top: 0px;
+    right: 0px;
+}
