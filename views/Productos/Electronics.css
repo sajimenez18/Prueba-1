@@ -1,5 +1,114 @@
 .Electronics{
     width: 1440px;
     height: 44.5rem;
-    background-color: rgb(255, 196, 0);
+    border: 1px solid black;
+    display: flex;
+    flex-direction: row;
+    gap: 3rem;
+    align-items: center;
+    justify-content: center;
+}
+.fondo1{
+    width: 389px;
+    height: 207px;
+    background-color: #313131;
+    border-radius: 18px;
+    position: relative;
+}
+.burbujas{
+    width: 199px;
+    height: 170px;
+    position: absolute;
+    top: 0px;
+    margin-left: 19rem;
+}
+.tfn{
+    width: 200px;
+    height: 300px;
+    position: absolute;
+    margin-left: 20rem;
+    margin-top: 1rem;
+}
+.col{
+    display: flex;
+    flex-direction: column;
+}
+.iphone{
+    width: 99px;
+    height: 35px;
+    top: 3rem;
+    left: 3rem;
+    position: relative;
+}
+.apple{
+    width: 62px;
+    height: 62px;
+    position: relative;
+    margin-top: 5rem;
+    margin-left: 3rem;
+}
+.dsc{
+    color: white;
+    margin-top: 2rem;
+    margin-left:3rem;
+    font-size: 20px;
+}
+.imgt {
+    width: 389px;
+    height: 207px;
+    border: 1px solid black;
+}
+.fondo2{
+    width: 389px;
+    height: 207px;
+    background-color: #FFF3CC;
+    border-radius: 18px;
+    position: relative;
+}
+.realme{
+    width: 102px;
+    height: 35px;
+    position: absolute;
+    top: 3rem;
+    left: 3rem;
+}
+.real{
+    width: 114px;
+    height: 34px;
+    position: absolute;
+    margin-top: 8rem;
+    margin-left: 3rem;
+}
+.ds{
+    color: #222222;
+    font-size: 20px;
+    margin-top: 13rem;
+    margin-left: 3rem;
+}
+.fondo3{
+    width: 389px;
+    height: 207px;
+    background-color: #FFECDF;
+    border-radius: 18px;
+    position: relative;
+}
+.d{
+    color: #222222;
+    font-size: 20px;
+    margin-top: 17rem;
+    margin-left: 3rem;
+}
+.xiaomi{
+    width: 99px;
+    height: 35px;
+    top: 2rem;
+    left: 3rem;
+    position: absolute;
+}
+.xia{
+    width: 62px;
+    height: 62px;
+    position: absolute;
+    margin-top: 8rem;
+    margin-left: 3rem;
 }
